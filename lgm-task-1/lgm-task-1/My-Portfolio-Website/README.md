@@ -1,0 +1,5 @@
+ Starter project to build your first website.
+    
+ Made this website in the internship of lets Grow More, LGM-VIP.
+
+ The first task [TASK-1] is my personal portfolio which is designed/styled using CSS3 and structured built with HTML5 and JAVASCRIPT.
